@@ -17,11 +17,6 @@
 - Exploring the intersection of **AI and full-stack development**.  
 - Enhancing my expertise in **cloud technologies and DevOps**.  
 
-### 🛠️ Goals  
-- Master advanced **backend architectures** and **database optimizations**.  
-- Deepen my understanding of **machine learning applications in web development**.  
-- Contribute to **open-source projects** and collaborative coding initiatives.  
-
 ### 📫 Connect with Me  
 - **GitHub**: [ishika777](https://github.com/ishika777)  
 - **LinkedIn**: [Ishika Kansal](https://www.linkedin.com/in/ishika-kansal-699198245/)  
